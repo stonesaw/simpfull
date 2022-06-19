@@ -1,0 +1,10 @@
+head:
+  title: Hello, Simpfull!
+body:
+  h1: Hello,
+  p:
+    a: link
+    i: italic
+  b: bold
+  a: link
+  
